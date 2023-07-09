@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eterna", "Eterna\Eterna.csproj", "{074F86D2-3993-40F6-8293-2411EFE8F98C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074F86D2-3993-40F6-8293-2411EFE8F98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074F86D2-3993-40F6-8293-2411EFE8F98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074F86D2-3993-40F6-8293-2411EFE8F98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074F86D2-3993-40F6-8293-2411EFE8F98C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {513F6400-7E11-4C3B-B0BA-799056EF2CE2}
+	EndGlobalSection
+EndGlobal

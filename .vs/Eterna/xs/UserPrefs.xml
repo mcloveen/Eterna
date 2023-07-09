@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{074F86D2-3993-40F6-8293-2411EFE8F98C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Eterna/Pages/_ViewStart.cshtml">
+    <Files>
+      <File FileName="Eterna/Pages/_ViewImports.cshtml" />
+      <File FileName="Eterna/Pages/_ViewStart.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Eterna" expanded="True">
+            <Node name="Eterna" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="_ViewStart.cshtml" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Eterna FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
